@@ -1,0 +1,17 @@
+{
+  "name": "selectToAutocomplete",
+  "version": "0.0.0",
+  "homepage": "https://github.com/slde-rorschach/selectToAutocomplete",
+  "authors": [
+    "Jamie Appleseed <jamie@baymard.com>"
+  ],
+  "description": "Turns any select tag into an autocomplete field with weighted options, synonyms and loose matching",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
